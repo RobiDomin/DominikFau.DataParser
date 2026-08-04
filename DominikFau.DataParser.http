@@ -1,0 +1,6 @@
+@DominikFau.DataParser_HostAddress = http://localhost:5215
+
+GET {{DominikFau.DataParser_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

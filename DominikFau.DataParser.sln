@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominikFau.DataParser", "DominikFau.DataParser.csproj", "{979FA283-0C48-47D8-8A64-B6B5BF4688AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979FA283-0C48-47D8-8A64-B6B5BF4688AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979FA283-0C48-47D8-8A64-B6B5BF4688AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979FA283-0C48-47D8-8A64-B6B5BF4688AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979FA283-0C48-47D8-8A64-B6B5BF4688AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF91F5B-6F1B-42EF-BF28-5E3456F3BC55}
+	EndGlobalSection
+EndGlobal
